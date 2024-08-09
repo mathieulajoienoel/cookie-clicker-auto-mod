@@ -1,0 +1,12 @@
+{
+	"Name": "mln-clicker",
+	"ID": "mln-clicker",
+	"Author": "MLN",
+	"Description": "simple clicker",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "16/08/2023",
+	"Dependencies": [],
+	"AllowSteamAchievs": 1,
+	"Disabled": 0
+}
